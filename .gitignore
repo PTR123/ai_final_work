@@ -1,6 +1,9 @@
 # macOS system files
 .DS_Store
 
+# Claude Code configuration
+CLAUDE.md
+
 # Python
 __pycache__/
 *.py[cod]
